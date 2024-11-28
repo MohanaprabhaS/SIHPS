@@ -1,4 +1,4 @@
-# Smart India Hackathon Workshop
+![Screenshot 2024-11-28 224740](https://github.com/user-attachments/assets/bf924688-dd7e-46ba-9f6f-5d178a80182c)# Smart India Hackathon Workshop
 # Date:28:11:2024
 ## Register Number:24900515
 ## Name:Mohanaprabha S
@@ -44,19 +44,31 @@ CHALLENGES AND SOLUTIONS:
 2. Engagement: Incentivize usage with exclusive content, gamification, or recognition.
 3. unding: Collaborate with sponsors, offer premium memberships, or use alumni contributions.
 
-End Goal
+End Goal:
+
 A robust Alumni Association platform should foster a lifelong connection between the alumni and the university, promote networking, 
 and facilitate opportunities for professional and personal growth.
 
 ## Proposed Solution / Architecture Diagram
 
 
+
+
 ## Use Cases
 
 
 
-## Technology Stack
 
+## Technology Stack
+React.js
+mySQL
+javascript
+PostgreSQL
+Html
+Firebox Authenticator
 
 ## Dependencies
 
+Mapping service- 10 days
+Data collection- 10 days
+budget- rs.50,000
