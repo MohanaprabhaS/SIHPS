@@ -50,7 +50,7 @@ A robust Alumni Association platform should foster a lifelong connection between
 and facilitate opportunities for professional and personal growth.
 
 ## Proposed Solution / Architecture Diagram
-
+![ps](ps.jpeg)
 
 
 
