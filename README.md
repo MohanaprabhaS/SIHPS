@@ -60,15 +60,23 @@ and facilitate opportunities for professional and personal growth.
 
 
 ## Technology Stack
+
 React.js
+
 mySQL
+
 javascript
+
 PostgreSQL
+
 Html
+
 Firebox Authenticator
 
 ## Dependencies
 
 Mapping service- 10 days
+
 Data collection- 10 days
+
 budget- rs.50,000
