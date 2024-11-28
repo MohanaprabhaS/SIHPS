@@ -1,4 +1,4 @@
-![Screenshot 2024-11-28 224740](https://github.com/user-attachments/assets/bf924688-dd7e-46ba-9f6f-5d178a80182c)# Smart India Hackathon Workshop
+ Smart India Hackathon Workshop
 # Date:28:11:2024
 ## Register Number:24900515
 ## Name:Mohanaprabha S
@@ -55,8 +55,7 @@ and facilitate opportunities for professional and personal growth.
 
 
 ## Use Cases
-
-
+![use cases](Use_cases.jpeg)
 
 
 ## Technology Stack
